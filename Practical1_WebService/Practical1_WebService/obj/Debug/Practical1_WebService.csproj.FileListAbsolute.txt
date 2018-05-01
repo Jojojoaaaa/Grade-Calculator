@@ -1,0 +1,13 @@
+c:\users\asus pc\documents\visual studio 2012\Projects\Practical1_WebService\Practical1_WebService\bin\Practical1_WebService.dll
+c:\users\asus pc\documents\visual studio 2012\Projects\Practical1_WebService\Practical1_WebService\bin\Practical1_WebService.pdb
+c:\users\asus pc\documents\visual studio 2012\Projects\Practical1_WebService\Practical1_WebService\obj\Debug\Practical1_WebService.csprojResolveAssemblyReference.cache
+c:\users\asus pc\documents\visual studio 2012\Projects\Practical1_WebService\Practical1_WebService\obj\Debug\Practical1_WebService.dll
+c:\users\asus pc\documents\visual studio 2012\Projects\Practical1_WebService\Practical1_WebService\obj\Debug\Practical1_WebService.pdb
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\bin\Practical1_WebService.dll.config
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\bin\Practical1_WebService.dll
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\bin\Practical1_WebService.pdb
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\bin\EntityFramework.dll
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\bin\EntityFramework.xml
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\obj\Debug\Practical1_WebService.csprojResolveAssemblyReference.cache
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\obj\Debug\Practical1_WebService.dll
+C:\Users\Joahnna\Desktop\Practical 1\Practical1_WebService\Practical1_WebService\obj\Debug\Practical1_WebService.pdb
